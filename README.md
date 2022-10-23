@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the following stuff
+- 🔭 I’m currently working on 
    - Upkeep's Analytics using Looker with Google BigQuery
    - Building Core Platform for DyaniaHealth
    - A bunch of side projects.
